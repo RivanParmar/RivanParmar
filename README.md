@@ -4,7 +4,7 @@
 I am **Rivan Parmar** and welcome to my GitHub profile!
 
 # A bit about myself
-I'm a Student *and* a Software Developer and very much enthusiastic about Open-Source and coding.
+I'm a Student *and* a Software Developer and very much enthusiastic about Open-Source and coding. Also I'm from Gujarat, India.
 
 # Ongoing works
 :telescope: I'm currently working on creating a Visual Scripting plugin for Android Studio. You can check it out [here](https://github.com/RivanParmar/Android-Studio-Visual-Scripting-Plugin).
@@ -23,7 +23,10 @@ I'm looking forward to collaborating with the things I am currently learning as 
 # Skills
 
 # Stats
-[![Rivan's GitHub Stats Light Mode](https://github-readme-stats.vercel.app/api?username=RivanParmar&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true)](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#stats#gh-light-mode-only)
+[![Rivan's GitHub Stats Light Mode](https://github-readme-stats.vercel.app/api?username=RivanParmar&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&border_color=000000&border_radius=20&custom_title=Rivan's%20GitHub%20Stats)](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#stats#gh-light-mode-only)
+[![Rivan's GitHub Stats Dark Mode](https://github-readme-stats.vercel.app/api?username=RivanParmar&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=slateorange&border_color=ffffff&border_radius=20&custom_title=Rivan's%20GitHub%20Stats)](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#stats#gh-dark-mode-only)
+[![Top Languages Light Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=RivanParmar&layout=compact&border_color=000000&border_radius=20)](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#stats#gh-light-mode-only)
+[![Top Languages Dark Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=RivanParmar&layout=compact&theme=dark&border_radius=20&border_color=ffffff)](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#stats#gh-dark-mode-only)
 
 # Reach me
 ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
