@@ -13,7 +13,7 @@ I'm a Student *and* a Software Developer and very much enthusiastic about Open-S
 :seedling: I'm currently learning on how to create a plugin for Intellij IDEA. I'm also learning **Ethical Hacking**, **AI/ML**, **Blender addon** creation, **Typescript** :sweat: ! And so much more!
 
 # Collaboration
-I'm looking forward to collaborating with the things I am currently learning as well as **Android apps** (in which I have got quite an expertise) and **Website development**.
+I'm looking forward to collaborating with the things I am currently learning as well as **Android apps**, **Website development** and projects that require the [**Skills**](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#skills) that I have.
 
 **Also I would love to collaborate with big tech companies.**
 
