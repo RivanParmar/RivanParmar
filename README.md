@@ -59,7 +59,7 @@ I'm a Student *and* a Software Developer and very much enthusiastic about Open-S
 [![Top Languages Light Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=RivanParmar&layout=compact&border_color=000000&border_radius=16)](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#stats#gh-light-mode-only)
 [![Top Languages Dark Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=RivanParmar&layout=compact&theme=dark&border_radius=16&border_color=ffffff)](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#stats#gh-dark-mode-only)
 
-# Reach me
-![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+# Connect with me
+![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RivanParmar)
 
 📫 You can reach out to me through my email: parmarrivan@gmail.com
