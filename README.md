@@ -7,7 +7,7 @@ I am **Rivan Parmar** and welcome to my GitHub profile!
 I'm a Student *and* a Software Developer and very much enthusiastic about Open-Source and coding. Also I'm from Gujarat, India.
 
 # Ongoing works
-:telescope: I'm currently working on creating a Visual Scripting plugin for Android Studio. You can check it out [here](https://github.com/RivanParmar/Android-Studio-Visual-Scripting-Plugin).
+:telescope: I'm currently working on creating a [**Visual Scripting plugin for Android Studio**](https://github.com/RivanParmar/Android-Studio-Visual-Scripting-Plugin).
 
 # Currently learning
 :seedling: I'm currently learning on how to create a plugin for Intellij IDEA. I'm also learning **Ethical Hacking**, **AI/ML**, **Blender addon** creation, **Typescript**, **Unreal Engine**, **Flutter** :sweat: ! And so much more!
