@@ -1,5 +1,5 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Google developer profile](https://img.shields.io/badge/RivanParmar-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/RivanParmar)
+[![Google developer profile](https://img.shields.io/badge/RivanParmar-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/RivanParmar) [![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/20805452/?ref=app)
 
 I am **Rivan Parmar** and welcome to my GitHub profile!
 
