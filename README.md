@@ -4,7 +4,7 @@
 I am **Rivan Parmar** and welcome to my GitHub profile!
 
 # A bit about myself
-I'm a Student *and* a Software Developer and very much enthusiastic about Open-Source and coding. Also I'm from Gujarat, India.
+I'm a Student *and* a Software Developer and very much enthusiastic about Open-Source and coding.
 
 # Ongoing works
 :telescope: I'm currently working on creating a [**Visual Scripting plugin for Android Studio**](https://github.com/RivanParmar/Android-Studio-Visual-Scripting-Plugin).
