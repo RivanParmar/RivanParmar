@@ -15,8 +15,6 @@ I'm a Student *and* a Software Developer and very much enthusiastic about Open-S
 # Collaboration
 🤝 I'm looking forward to collaborating with the things I am currently learning as well as **Android apps**, **Website development** and projects that require the [**Skills**](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#skills) that I have.
 
-**Also I would love to collaborate with big tech companies.**
-
 # Ask me about
 :speech_balloon: You can ask me about anything related to **Android** and my other [**Skills**](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#skills).
 
