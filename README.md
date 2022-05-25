@@ -35,6 +35,8 @@ I'm a Student *and* a Software Developer and very much enthusiastic about Open-S
 <a href="Certificates/Swift_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 </p>
 
+*Please click on the above icons to view the certificates.
+
 ### Tools
 <p align="center"> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="androidstudio" width="40" height="40"/> </a>
