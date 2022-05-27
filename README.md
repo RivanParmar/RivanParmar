@@ -23,17 +23,21 @@ I'm a Student *and* a Software Developer and very much enthusiastic about Open-S
 # Skills
 ### Languages
 <p align="center">
-<a href="Certificates/Java_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
+<a href="Certificates/Java_certificate.jpg#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="Java light mode" width="40" height="40"/> </a>
+<a href="Certificates/Java_certificate.jpg#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java dark mode" width="40" height="40"/> </a>
 <a href="Certificates/C_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
 <a href="Certificates/CPlusPlus_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="Certificates/CSharp_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> 
 <a href="Certificates/CSS_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
 <a href="Certificates/HTML_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
-<a href="Certificates/kotlin_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a>
+<a href="Certificates/kotlin_certificate.jpg#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin light mode" width="40" height="40"/> </a>
+<a href="Certificates/kotlin_certificate.jpg#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin dark mode" width="40" height="40"/> </a>
 <a href="Certificates/JavaScript_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>  
-<a href="Certificates/SQL_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
+<a href="Certificates/SQL_certificate.jpg#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL light mode" width="40" height="40"/> </a>
+<a href="Certificates/SQL_certificate.jpg#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL dark mode" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-<a href="Certificates/Python_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
+<a href="Certificates/Python_certificate.jpg#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="Python light mode" width="40" height="40"/> </a>
+<a href="Certificates/Python_certificate.jpg#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python dark mode" width="40" height="40"/> </a> 
 <a href="Certificates/Swift_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a>
 </p>
 
