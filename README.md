@@ -1,24 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Rivan%20Parmar&fontSize=90&fontAlign=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Rivan%20Parmar&fontSize=88&fontAlign=36&fontAlignY=42)
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-[![Google developer profile](https://img.shields.io/badge/RivanParmar-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/RivanParmar) [![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-gb/users/rivanparmar/) [![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/20805452/?ref=app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RivanParmar)
-
-I am **Rivan Parmar** and welcome to my GitHub profile!
-
-# A bit about myself
-I'm a Student *and* a Software Developer and very much enthusiastic about Open-Source and coding.
-
-# Ongoing works
-:telescope: I'm currently working on creating a [**Visual Scripting plugin for Android Studio**](https://github.com/RivanParmar/Android-Studio-Visual-Scripting-Plugin).
-
-# Currently learning
-:seedling: I'm currently learning on how to create a plugin for Intellij IDEA. I'm also learning **Ethical Hacking**, **AI/ML**, **Blender addon** creation, **Typescript**, **Unreal Engine**, **Flutter** :sweat: ! And so much more!
-
-# Collaboration
-🤝 I'm looking forward to collaborating with the things I am currently learning as well as **Android apps**, **Website development** and projects that require the [**Skills**](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#skills) that I have.
-
-# Ask me about
-:speech_balloon: You can ask me about anything related to **Android** and my other [**Skills**](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#skills).
+[![Google developer profile](https://img.shields.io/badge/RivanParmar-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/RivanParmar) [![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-gb/users/rivanparmar/) [![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/20805452/?ref=app)
 
 # Skills
 ### Languages
