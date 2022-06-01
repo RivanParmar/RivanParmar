@@ -23,21 +23,17 @@ I'm a Student *and* a Software Developer and very much enthusiastic about Open-S
 # Skills
 ### Languages
 <p align="center">
-<a href="Certificates/Java_certificate.jpg#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="Java light mode" width="40" height="40"/> </a>
-<a href="Certificates/Java_certificate.jpg#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java dark mode" width="40" height="40"/> </a>
+<a href="Certificates/Java_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="Java light mode" width="40" height="40"/> </a>
 <a href="Certificates/C_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
 <a href="Certificates/CPlusPlus_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="Certificates/CSharp_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> 
 <a href="Certificates/CSS_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
 <a href="Certificates/HTML_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
-<a href="Certificates/kotlin_certificate.jpg#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin light mode" width="40" height="40"/> </a>
-<a href="Certificates/kotlin_certificate.jpg#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin dark mode" width="40" height="40"/> </a>
+<a href="Certificates/kotlin_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin light mode" width="40" height="40"/> </a>
 <a href="Certificates/JavaScript_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>  
-<a href="Certificates/SQL_certificate.jpg#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL light mode" width="40" height="40"/> </a>
-<a href="Certificates/SQL_certificate.jpg#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL dark mode" width="40" height="40"/> </a>
+<a href="Certificates/SQL_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL light mode" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-<a href="Certificates/Python_certificate.jpg#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="Python light mode" width="40" height="40"/> </a>
-<a href="Certificates/Python_certificate.jpg#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python dark mode" width="40" height="40"/> </a> 
+<a href="Certificates/Python_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="Python light mode" width="40" height="40"/> </a>
 <a href="Certificates/Swift_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a>
 </p>
 
@@ -45,11 +41,9 @@ I'm a Student *and* a Software Developer and very much enthusiastic about Open-S
 
 ### Tools
 <p align="center"> 
-<a href="https://github.com/RivanParmar/RivanParmar/blob/main/README.md#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio light mode" width="40" height="40"/> </a>
-<a href="https://github.com/RivanParmar/RivanParmar/blob/main/README.md#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio dark mode" width="40" height="40"/> </a>
+<a href="https://github.com/RivanParmar/RivanParmar/blob/main/README.md" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio light mode" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="Blender light mode" width="40" height="40"/> </a>
-<a href="https://www.blender.org/#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender&theme=light" alt="Blender dark mode" width="40" height="40"/> </a>  
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="Blender light mode" width="40" height="40"/> </a>  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> 
