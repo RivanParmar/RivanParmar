@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Rivan%20Parmar&fontSize=88&fontAlign=36&fontAlignY=42)
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-[![Google developer profile](https://img.shields.io/badge/RivanParmar-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/RivanParmar) [![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-gb/users/rivanparmar/) [![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/20805452/?ref=app)
+[![Google developer profile](https://img.shields.io/badge/RivanParmar-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/RivanParmar) [![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-gb/users/rivanparmar/) [![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/20805452/?ref=app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rivanparmar)
 
 # Skills
 ### Languages
