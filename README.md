@@ -20,8 +20,6 @@
 <a href="Certificates/Swift_certificate.jpg" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a>
 </p>
 
-*Please click on the above icons to view the certificates.
-
 ### Tools
 <p align="center"> 
 <a href="https://github.com/RivanParmar/RivanParmar/blob/main/README.md" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio light mode" width="40" height="40"/> </a>
