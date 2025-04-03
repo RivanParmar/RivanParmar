@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&section=header&text=Rivan%20Parmar&fontSize=88&fontAlign=36&fontAlignY=42)
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-[![Google developer profile](https://img.shields.io/badge/RivanParmar-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/RivanParmar) [![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-gb/users/rivanparmar/) [![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/20805452/?ref=app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rivanparmar)
 
-# Skills
+## Skills
 ### Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java" alt="Java light mode" width="40" height="40"/>
@@ -35,7 +34,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-# Stats
+## Stats
 [![Rivan's GitHub Stats Light Mode](https://github-readme-stats.vercel.app/api?username=RivanParmar&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&border_color=000000&border_radius=20&custom_title=Rivan's%20GitHub%20Stats)](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#stats#gh-light-mode-only)
 [![Rivan's GitHub Stats Dark Mode](https://github-readme-stats.vercel.app/api?username=RivanParmar&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=dark&border_color=ffffff&border_radius=20&custom_title=Rivan's%20GitHub%20Stats)](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#stats#gh-dark-mode-only)
 [![Top Languages Light Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=RivanParmar&layout=compact&border_color=000000&border_radius=16)](https://github.com/RivanParmar/RivanParmar/blob/main/README.md#stats#gh-light-mode-only)
