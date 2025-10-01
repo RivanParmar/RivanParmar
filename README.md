@@ -21,7 +21,6 @@
 ### Tools
 <p align="center"> 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio light mode" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="Blender light mode" width="40" height="40"/> </a>  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> 
@@ -31,7 +30,6 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity " alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a> 
 <a href="https://jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=idea" alt="intellij" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
 ## Stats
